@@ -15,10 +15,20 @@ The earlier hosted version requires ChatGPT sign-in and does not represent every
 
 ## Application screenshots
 
-These are unaltered screenshots from local acceptance on 3 November 2026, reused for this showcase. They are dated development evidence, not new captures.
+These are unaltered local development screenshots from different implementation stages. The homepage capture is from 3 November 2026. The reader and workspace images are earlier archived captures, not a representation of every detail in the latest build. They contain no private notes or account records.
 
 ### Community homepage
 ![Community homepage](community-home.png)
+
+### Bible Reader
+![Bible Reader showing John 1 in KJV](bible-reader.png)
+
+Earlier local capture: translation, book and chapter selection, text sizing and device reading voice. Scripture shown is from the existing reader source. Device reading voice is browser/device speech synthesis, not licensed human narration. Some controls are shown in their loading state in this archived capture.
+
+### Scripture Workspace
+![Scripture Workspace study controls](scripture-workspace.png)
+
+Earlier local capture: passage search, translation selection, Bible overview, Greek/Hebrew tools and word comparison. The saved-study count is zero; no private notes are shown. These are existing study tools and do not demonstrate access to a newly licensed text or audio provider.
 
 ## Scope and confidentiality
 
