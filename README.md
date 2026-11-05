@@ -11,7 +11,7 @@ Kingdom Quest is a Christian community project developed by Gideon Adusei. It br
 Contact: kingdomquestsupport@gmail.com  
 Existing earlier hosted version: https://kingdom-quest-bible-trivia.gadusei87.chatgpt.site/game/home/
 
-The earlier hosted version requires ChatGPT sign-in and does not represent every feature in the private update. No reviewer credentials are included. The owner has created a GitHub account; uploading this showcase remains a separate step.
+The earlier hosted version requires ChatGPT sign-in and does not represent every feature in the private update. No reviewer credentials are included. This public repository provides a project overview and development screenshot for review.
 
 ## Application screenshots
 
@@ -26,4 +26,4 @@ This is a documentation-only showcase. It intentionally excludes application sou
 
 ## Repository use
 
-After owner review, these showcase files may be placed into a new repository. Do not upload the parent project directory or its Git history. No software/open-source license is granted by this showcase. Third-party names, Scripture excerpts and notices retain their respective rights; screenshots are supplied for project verification, not as a licensed Scripture dataset.
+This repository contains only the reviewed showcase files. The application repository and its Git history are not included. No software/open-source license is granted by this showcase. Third-party names, Scripture excerpts and notices retain their respective rights; screenshots are supplied for project verification, not as a licensed Scripture dataset.
